@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unity\\projects\\card_game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA4EC34-5AAF-553E-D5CF-85A788409EE9}|Assembly-CSharp.csproj|d:\\unity\\projects\\card_game\\assets\\scripts\\carditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA4EC34-5AAF-553E-D5CF-85A788409EE9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\carditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA4EC34-5AAF-553E-D5CF-85A788409EE9}|Assembly-CSharp.csproj|d:\\unity\\projects\\card_game\\assets\\scripts\\battle_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA4EC34-5AAF-553E-D5CF-85A788409EE9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\battle_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA4EC34-5AAF-553E-D5CF-85A788409EE9}|Assembly-CSharp.csproj|D:\\unity\\projects\\card_game\\assets\\scripts\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA4EC34-5AAF-553E-D5CF-85A788409EE9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA4EC34-5AAF-553E-D5CF-85A788409EE9}|Assembly-CSharp.csproj|D:\\unity\\projects\\card_game\\assets\\scripts\\public_functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA4EC34-5AAF-553E-D5CF-85A788409EE9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\public_functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDA4EC34-5AAF-553E-D5CF-85A788409EE9}|Assembly-CSharp.csproj|d:\\unity\\projects\\card_game\\assets\\scripts\\card_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDA4EC34-5AAF-553E-D5CF-85A788409EE9}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Card_manager.cs",
+              "DocumentMoniker": "D:\\unity\\projects\\card_game\\Assets\\scripts\\Card_manager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Card_manager.cs",
+              "ToolTip": "D:\\unity\\projects\\card_game\\Assets\\scripts\\Card_manager.cs",
+              "RelativeToolTip": "Assets\\scripts\\Card_manager.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAuwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:42:56.486Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Battle_Manager.cs",
+              "DocumentMoniker": "D:\\unity\\projects\\card_game\\Assets\\scripts\\Battle_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Battle_Manager.cs",
+              "ToolTip": "D:\\unity\\projects\\card_game\\Assets\\scripts\\Battle_Manager.cs",
+              "RelativeToolTip": "Assets\\scripts\\Battle_Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:56:17.389Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CardItem.cs",
+              "DocumentMoniker": "D:\\unity\\projects\\card_game\\Assets\\scripts\\CardItem.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\CardItem.cs",
+              "ToolTip": "D:\\unity\\projects\\card_game\\Assets\\scripts\\CardItem.cs",
+              "RelativeToolTip": "Assets\\scripts\\CardItem.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAgwEoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T02:54:58.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Public_Functions.cs",
+              "DocumentMoniker": "D:\\unity\\projects\\card_game\\Assets\\scripts\\Public_Functions.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Public_Functions.cs",
+              "ToolTip": "D:\\unity\\projects\\card_game\\Assets\\scripts\\Public_Functions.cs",
+              "RelativeToolTip": "Assets\\scripts\\Public_Functions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:10:21.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "D:\\unity\\projects\\card_game\\Assets\\scripts\\Monster.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Monster.cs",
+              "ToolTip": "D:\\unity\\projects\\card_game\\Assets\\scripts\\Monster.cs",
+              "RelativeToolTip": "Assets\\scripts\\Monster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T01:10:00.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
